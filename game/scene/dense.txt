@@ -1,0 +1,17 @@
+:You're going in the right direction.  -fontSize=default;
+:【direction-sense+10】 -fontSize=default;
+intro:You continue to move cautiously toward the north.|But the forest is still not peaceful at night, someone is patrolling for runaway slaves... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeBg:forest(night).webp;
+patroller A:Do you hear any strange noises in the bushes? -fontSize=default;
+patroller B:That's the sound of the wind, isn't it? -fontSize=default;
+patroller A:Hmmm... -fontSize=default;
+patroller A:Wait, I think I saw a shadow over there. （Coming your way.） -fontSize=default;
+changeBg:be found.png;
+:You're too scared to move. You hold your breath and crouch behind a bush... -fontSize=default;
+changeBg:none;
+bgm: -enter=1000;
+intro:*Your ability to escape depends on the skill points you've accumulated in previous games.*|[Direction-sense] need to be at least 30, [Agility] need to be at least 10| -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Check whether the skill points are up to standard... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Your [Direction-sense] >30|And your [Agility] =10 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Congratulations!|Finally, you successfully escape to Philadelphia. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+callScene:talk to God.txt

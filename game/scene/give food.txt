@@ -1,0 +1,7 @@
+changeFigure:solider HT3.png;
+:（You give her some food and leave in a hurry because you have urgent tasks.） -fontSize=default;
+changeFigure:baggar2.png;
+widow:(Looking at your back and shouting) Thank you so much! God is with us!!! -fontSize=default;
+changeFigure:none;
+bgm: -enter=1000;
+changeScene:spy.txt

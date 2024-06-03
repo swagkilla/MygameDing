@@ -1,0 +1,17 @@
+changeFigure:none;
+changeBg:cotton fielddd.webp;
+:You observe and record the scale of the troop and fortifications hiding in a group of women picking cotton. -fontSize=default;
+changeFigure:original HT2.png;
+:You ask for more information： -fontSize=default;
+You:I am a spy from the Northern Army. I am here to help you. Where can I find important information about the Confederate Army? -fontSize=default;
+changeFigure:cotton worker2.png;
+a worker in the cotton field:Over there in the camp. You can hide in the cooks and monitor the meetings. -fontSize=default;
+changeFigure:original HT2.png;
+You:Thank you. I will help you escape to the north when my mission is done. -fontSize=default;
+changeFigure:none;
+intro:You follow the woman's instructions to the Federal army camp and see the officers talking. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:generals talking.png;
+Colonel in the Federal Army:We are going to fortify the defense of strategic locations, thus, this troop is going to Mississippi next week after the weapons are being produced. -fontSize=small;
+Lieutenant in the Federal Army:Also, we will send the guerrilla warfare and cavalry raids to disturb the supply line of the Union… -fontSize=default;
+:You memorized their conversation. So how are you going to deliver this important information? -fontSize=default;
+choose:Write the message on a card and deliver the card through the community.:wrte.txt|Run away from the camp and send the message yourself.:run.txt;

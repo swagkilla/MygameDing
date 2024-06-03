@@ -1,0 +1,7 @@
+changeBg:star3.JPG;
+:You seem lost. -fontSize=default;
+:Observe the two outer stars of the “spoon” barrel portion of the Big Dipper, visualize the two pointer stars as a straight line, and draw a straight line from the star below the “hoe handle” to the star above it. -fontSize=small;
+: Then extend the line five times as far, and the bright star in the direction of the line's extension is directly opposite the North Star. -fontSize=default;
+changeBg:none;
+:(Please try again.) -fontSize=default;
+changeScene:go against the water flow.txt

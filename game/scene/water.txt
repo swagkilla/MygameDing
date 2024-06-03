@@ -1,0 +1,4 @@
+changeBg:waterflow.png;
+:Now you should go home through your navigation knowledge.  -fontSize=default;
+:You look down at the river. How would you choose your route home? (hint: Your residence is uphill.) -fontSize=small;
+choose:Go with the water flow.:go with the water flow.txt|Go against the water flow.:go against the water flow.txt;

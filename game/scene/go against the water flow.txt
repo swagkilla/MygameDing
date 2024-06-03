@@ -1,0 +1,6 @@
+:You seem to be going in the right general direction. 【direction-sense+10】 -fontSize=default;
+Now you're still a ways from home. -fontSize=default;
+changeBg:star.PNG;
+:As you look up, you recognize it is the Big Dipper constellation. -fontSize=default;
+: How would you choose your route home? (hint: Your home is in the northern direction.) -fontSize=small;
+choose:Follow the direction of the leftmost star.:right.txt|Follow the direction of the rightmost star.:left.txt;

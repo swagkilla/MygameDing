@@ -1,0 +1,4 @@
+changeBg:forest(night).webp;
+:Due to your excellent direction-sense and survival experience, after three days you reached the plantation where your family is located. -fontSize=small;
+:How do you plan to rescue your family next? -fontSize=default;
+choose:Sneak in at night and take the family directly.:night.txt|Disguise yourself as a worker during the day and find out more before you make your move.:day.txt;

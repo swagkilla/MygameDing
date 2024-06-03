@@ -1,0 +1,11 @@
+:【You stay calm and back away slowly, avoiding making any sudden movements.】 -fontSize=default;
+:The snake doesn't seem to feel threatened and eventually slides slowly into a nearby bush. You are safely out of the way. 【agility+10】 -fontSize=default;
+changeBg:none;
+bgm:none;
+setTransition: -target=bg-main -enter=enter -exit=;
+changeBg:river.png;
+bgm:main melody.mp3;
+:After successfully escaping from danger, you realize you've run far from home and it's nighttime. -fontSize=default;
+:Looking at the stars and the running water navigation knowledge comes to mind.… -fontSize=default;
+:【notice* : this information will affect your skill points for the rest of the game!!!】You are aware that your residence is uphill, roughly in the northern direction.  -fontSize=small;
+changeScene:water.txt

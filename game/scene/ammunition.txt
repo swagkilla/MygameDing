@@ -1,0 +1,5 @@
+changeFigure:none;
+changeBg:ammunition factory.png;
+:In the factory, it's impossible to gather information about the rival army due to limited visibility.  -fontSize=default;
+:——You sneak to the cotton field. -fontSize=default;
+changeScene:cotton field.txt

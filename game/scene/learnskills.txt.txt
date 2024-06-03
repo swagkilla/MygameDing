@@ -1,0 +1,17 @@
+changeFigure:none;
+changeBg:none;
+bgm:none;
+intro:Scene 2 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:main melody.mp3 -enter=100;
+changeBg:wetland.png;
+changeFigure:child HT2.png;
+:Later, you are sent to work outdoors to collect muskrats from traps. -fontSize=default;
+:The job requires you to stay in the wetlands constantly.  -fontSize=default;
+:You are observant and smart that you gain multiple skills through the process of working outdoors. -fontSize=default;
+changeFigure:none;
+bgm:snake.mp3;
+changeBg:snake.png;
+unlockCg:snake.png;
+:【While you are finding muskrats, a snake is moving rapidly towards you】 -fontSize=default;
+:What would you do? -fontSize=default;
+choose:Run away immediately.:Run away immediately.txt|Back away slowly.:Back away slowly..txt;

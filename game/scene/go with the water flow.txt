@@ -1,0 +1,6 @@
+setTransition: -target= -enter=glitchFilm -exit=;
+:Rivers usually flow from highlands to lowlands. And your home is in the highland. -fontSize=default;
+:You seem to be going in the wrong direction.  -fontSize=default;
+changeBg:none;
+:(Please try again.) -fontSize=default;
+changeScene:water.txt

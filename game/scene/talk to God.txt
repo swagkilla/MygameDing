@@ -1,0 +1,20 @@
+intro:Scene 5 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:talktogod.mp3 -enter=1000;
+intro:After freeing yourself from slavery, you felt a profound spiritual calling.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:In a quiet moment of reflection, you feel that God is speaking to you again, urging you to take a larger role in the fight for freedom.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeBg:god.webp;
+You:I felt a brief moment of relief, but it still felt like a heavy stone in my heart… -fontSize=default;
+God:Keep following your heart, kid. -fontSize=default;
+intro:（Suddenly you feel a stabbing pain in your heart—— ） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:The helpless faces of your family, still abused in the South, come to mind... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+bgm:pain of war.mp3;
+changeBg:family.png;
+unlockCg:family.png;
+changeBg:family3.webp;
+unlockCg:family3.webp;
+changeBg:family2.webp;
+unlockCg:family2.webp;
+intro:You realize that your work is far from over,|you had to return to the South.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Motivated by this divine mission and the empathetic bond with your family, |you resolve to lead your loved ones and many others to freedom, despite the immense risks involved. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+bgm: -enter=1000;
+changeScene:return.txt

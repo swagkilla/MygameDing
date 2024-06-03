@@ -1,0 +1,10 @@
+changeFigure:solider HT3.png;
+You:Sis, I understand you're tired from the long journey, but everyone is struggling.  -fontSize=default;
+You:I can find you a job and then you can be self-sufficient. Your work is also a dedication to our community, -fontSize=default;
+You:so stand up,  you need to work for yourself! -fontSize=default;
+changeFigure:baggar2.png;
+widow:You must be the famous Harriet Tubman. Thank you for giving me hope… -fontSize=default;
+widow:I will work hard as you do. God is with us! -fontSize=default;
+changeFigure:none;
+bgm: -enter=1000;
+changeScene:spy.txt

@@ -1,0 +1,11 @@
+intro:Scene 6 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:The road back to salvation is bumpy and difficult, and you need to develop rigorous plans to save your family and others.. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+bgm:snake.mp3;
+changeBg:underground railroad.webp;
+:Philadelphia, a secluded meeting place. You are discussing your plans with a trusted member of the Underground Railroad. -fontSize=default;
+changeFigure:member1.png;
+teammember:(Concerned) Harriet, I understand your determination, but it requires careful preparation. What are your plans? -fontSize=default;
+changeFigure:original HT2.png;
+You:(Thinking) I have two plans. -fontSize=default;
+You:One is to ask our abolitionist friends for help and quickly raise the necessary supplies. The other is to slowly and surreptitiously accumulate them, trying not to attract anyone's attention. -fontSize=small;
+choose:Ask for help.:ask for help.txt|Accumulate supplies surreptitiously.:accumulate.txt;

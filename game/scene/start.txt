@@ -1,0 +1,21 @@
+; 初始场景，以及特效演示
+intro:Hi,|Welcome to Harriet Tubman's Legendary Life!|Hope you can enjoy. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Scene 1 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:Maryland.png -next;
+bgm:manor.mp3 -enter=100;
+:Your name is Araminta Ross. In March 1822, you were born into slavery in Maryland. -fontSize=default;
+changeFigure:child HT2.png;
+:Your father Benjamin Ross and your mother Harriet Green Ross are separated from you because the slave owner assigns you to different plantations. -fontSize=small;
+:At the age of 6, you are rented out to so household work and take care of the babies of nearby overseers. -fontSize=default;
+changeFigure:none;
+changeBg:take baby.png;
+unlockCg:take baby.png;
+setTransition: -target=bg-main -enter=blur -exit=;
+changeBg:wood house.webp;
+changeFigure:mistress3.png;
+Mistress:(shouting) In addition to the housework, you must make sure the baby does not cry in the night and sleep well, or I will whip you around your neck! -fontSize=small;
+changeFigure:holding baby2.png;
+:【You try to rock the baby in your hands, but you are too little and you are running out of energy】 -fontSize=default;
+:You want to drink some water so badly... -fontSize=default;
+:Are you going to drink some water? -fontSize=default;
+choose:Yes.:yes.txt|No.:no.txt;

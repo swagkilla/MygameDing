@@ -1,0 +1,11 @@
+:(put down the baby and drink water) -fontSize=default;
+:The baby starts crying and you hear the rapid foots steps. And suddenly the mistress appears with a strap.  -fontSize=default;
+changeFigure:mistress3.png;
+setAnimation:move-front-and-back -target=fig-center;
+Mistress:How can you be so useless! How dare you make my baby cry! (whipping) -fontSize=default;
+changeFigure:holding baby2.png;
+You:(crying) I am so sorry… -fontSize=default;
+changeFigure:mistress3.png;
+Mistress:If the baby cries again i swear i will kill you!!! -fontSize=default;
+intro:The mistress beat you so hard that you almost die...|And you realize that|SLAVERY IS THE NEXT THING TO HELL!!! -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeScene:learnskills.txt.txt

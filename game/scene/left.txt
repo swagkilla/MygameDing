@@ -1,0 +1,2 @@
+intro:Finally, you safely arrive where you live. 【direction-sense+10】 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeScene:God guided her life.txt

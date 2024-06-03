@@ -1,0 +1,18 @@
+changeBg:none;
+intro:Scene 4 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Time flies. You're now 27 years old. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:You married John Tubman , around the same time you changed your name from Araminta Ross to Harriet Tubman.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:As your bond with God deepens,|you feel more empowered to liberate yourself and your people, |while your husband becomes increasingly unable to understand you. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:The pain of being a slave is something you had endured for far too long.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Those endless hours of work, the marks of whipping, and the grief of losing your loved ones formed indelible scars in your heart.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:But the mental shackles are even more unbearable than the physical injuries. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:You know that this pain would never end if you do not find a way out for yourself and the rest of your compatriots. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:In that moment, you makes the most important decision of your life —— to run away! -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+bgm:darkness.mp3 -volume=1000;
+changeBg:escapeHT.png;
+unlockCg:escapeHT.png;
+:【You have now decided to escape, please use the your survival skills to escape.】 -fontSize=default;
+changeBg:annual ring2.PNG;
+:Your destination is Philadelphia, so you need to head north. -fontSize=default;
+:You saw a tree stump. And you have to judge the direction by the density of the rings. -fontSize=default;
+choose:Go in the direction of the dense annual rings.:dense.txt|Going in the direction of the sparse annual rings.:sparse.txt;

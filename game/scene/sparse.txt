@@ -1,0 +1,5 @@
+:You're going in the wrong direction. -fontSize=default;
+:The south side receives more sunlight and the annual rings are usually looser and grow faster. The north side is relatively shady and the annual rings are usually tighter and slower growing. -fontSize=small;
+changeBg:none;
+:(Please try again.) -fontSize=default;
+changeScene:Escape from the manor.txt

@@ -1,0 +1,3 @@
+intro:Since you weren't aware of the slave catcher's patrol times, you were caught by them when you went to rescue your family -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:You failed. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeScene:accumulate.txt

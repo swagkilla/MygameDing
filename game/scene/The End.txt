@@ -1,0 +1,12 @@
+bgm:endingsong.mp3 -enter=1000;
+intro:-END- -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:With the end of the Civil War, Harriet Tubman's fight did not stop.|She continued to fight on her terms -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Harriet returned to Auburn, New York, to continue her relief work, helping newly freed slaves find jobs, education, and medical care to support their fresh start. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:In the years that followed, Ms. Tubman not only became a supporter of the women's suffrage movement, |she personally cared for those in need, and her home became a refuge for many.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Her courage and generosity earned her the respect and love of her community. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:In her later years, Harriet Tubman continued to advocate for equality and justice, and despite her declining health, her strong spirit never waned. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Harriet died peacefully at her home in 1913 at the age of about 93.|Her life is a symbol of the fight against injustice and the pursuit of freedom, inspiring countless people to fight for a better world. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Today, Harriet Tubman's story continues to inspire a new generation of warriors. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:Her legacy is a testament to bravery, showing that even in the face of great odds and danger, one person's strength and determination can change history. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:-END-|made by KAVA Game Studio -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;
