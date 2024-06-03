@@ -1,4 +1,3 @@
-setAnimation:dotFilm -target=bg-main;
 :【You try to turn and run, but in your panic trip over a tree root.】 -fontSize=default;
 :The snake approaches quickly, and you can only watch in horror as it approaches. You feel a sharp pain. -fontSize=default;
 bgm:none;

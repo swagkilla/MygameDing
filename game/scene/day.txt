@@ -5,7 +5,6 @@ changeBg:123456.webp;
 unlockCg:123456.webp;
 :You took your family on a return trip through friendly Underground Railroad stations, a long but safe ride. -fontSize=default;
 intro:Finally, you successfully save your family. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-bgm: -enter=1000;
 changeBg:underground railroad.webp;
 bgm:talktogod.mp3 -enter=1000;
 changeFigure:original HT2.png;
@@ -13,5 +12,4 @@ changeFigure:original HT2.png;
 You:why I can’t do something bigger…. -fontSize=default;
 intro:Later on, you decide to save more people by using your own power and intelligence.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:You crossed that Underground Railroad time and time again and became a navigator on the road to freedom. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-bgm: -enter=1000;
 changeScene:civil war.txt

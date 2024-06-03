@@ -21,9 +21,8 @@ intro:You feel a sharp pain on your head—— -fontSize=medium -backgroundColor
 changeBg:hit.png;
 unlockCg:hit.png;
 intro:Instead of hitting the escaping young male slave, the brick went off target and unfortunately hit you.|You feel dizzy and gradually pass out... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-bgm: -enter=1000;
-intro:In your stupor, you faintly hear a call. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 bgm:talktogod.mp3 -enter=1000;
+intro:In your stupor, you faintly hear a call. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 changeBg:god.webp;
 ???:Follow your inherent, kid. -fontSize=default;
 setAnimation:blur -target=bg-main;

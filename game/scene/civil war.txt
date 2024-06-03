@@ -3,7 +3,6 @@ bgm:civil war.mp3;
 changeFigure:none;
 intro:In April 1861, the Civil War broke out, while you moved back to the United States.|Women are encouraged to serve as nurses or cooks for the Union Army.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:You chose to serve in the army to help crack down on slavery. |Based on the knowledge and skills you gained before, you are formally recruited. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-bgm: -enter=1000;
 bgm:pain of war.mp3;
 changeBg:hospital.webp;
 changeFigure:wounded solider2.png;

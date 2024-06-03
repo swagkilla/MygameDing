@@ -9,7 +9,7 @@ changeFigure:child HT2.png;
 :The job requires you to stay in the wetlands constantly.  -fontSize=default;
 :You are observant and smart that you gain multiple skills through the process of working outdoors. -fontSize=default;
 changeFigure:none;
-bgm:snake.mp3;
+bgm:darkness.mp3;
 changeBg:snake.png;
 unlockCg:snake.png;
 :【While you are finding muskrats, a snake is moving rapidly towards you】 -fontSize=default;

@@ -3,5 +3,4 @@ changeFigure:solider HT3.png;
 changeFigure:baggar2.png;
 widow:(Looking at your back and shouting) Thank you so much! God is with us!!! -fontSize=default;
 changeFigure:none;
-bgm: -enter=1000;
 changeScene:spy.txt

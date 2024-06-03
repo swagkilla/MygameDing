@@ -6,5 +6,4 @@ changeFigure:baggar2.png;
 widow:You must be the famous Harriet Tubman. Thank you for giving me hope… -fontSize=default;
 widow:I will work hard as you do. God is with us! -fontSize=default;
 changeFigure:none;
-bgm: -enter=1000;
 changeScene:spy.txt

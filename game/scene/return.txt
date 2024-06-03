@@ -1,6 +1,6 @@
 intro:Scene 6 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 intro:The road back to salvation is bumpy and difficult, and you need to develop rigorous plans to save your family and others.. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-bgm:snake.mp3;
+bgm:hunting.mp3;
 changeBg:underground railroad.webp;
 :Philadelphia, a secluded meeting place. You are discussing your plans with a trusted member of the Underground Railroad. -fontSize=default;
 changeFigure:member1.png;
